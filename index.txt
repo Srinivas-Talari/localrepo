@@ -1,3 +1,6 @@
 <header></header>
 <main></main>
 <footer></footer>
+
+<cart></cart>
+<payment></payment>
